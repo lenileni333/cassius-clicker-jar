@@ -1,0 +1,6 @@
+*.class
+t.svg
+superwog
+**/*.class
+notes/
+CODE/

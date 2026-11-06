@@ -2,7 +2,7 @@
     "redirects": [
         {
             "source": "/download",
-            "destination": null,
+            "destination": "https://github.com/lenileni333/cassius-clicker-jar/releases/download/v1/CassiusClicker.jar",
             "permanent": false
         }
     ],
